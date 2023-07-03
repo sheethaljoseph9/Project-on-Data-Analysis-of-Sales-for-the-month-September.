@@ -9,4 +9,5 @@ customer retention initiatives, or process improvements. This project is based o
 
 - What can you conclude about the company's performance from this data?
 - As a consultant what will be your proposed tech strategy for the next year?
-- Create an insight to be presented to the stakeholders. Share your actions on the basis of insights.
+- Create an insight to be presented to the stakeholders. Share my actions on the basis of insights.
+- Mention relevant questions on the basis of insights and micro-insights about their business plan/strategy/industry/curiosity/etc.
